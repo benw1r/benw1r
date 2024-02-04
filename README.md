@@ -1,6 +1,6 @@
 👋 **Hello there!**
 
-I'm Ben Wirth, a passionate individual currently immersed in the exciting world of technology. At the moment, my focus is on developing **JobBot**, an innovative project that aims to revolutionize the way resumes and cover letters are created through the power of AI.
+I'm Ben Wirth, a passionate individual currently immersed in the exciting world of technology. At the moment, my focus is on developing **JobBot** (check it out here -> www.jobbot.wtf), an innovative project that aims to revolutionize the way resumes and cover letters are created through the power of AI.
 
 🚀 **Current Endeavors:**
 
