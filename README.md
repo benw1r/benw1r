@@ -23,8 +23,9 @@ I'm Ben Wirth, a passionate individual currently immersed in the exciting world 
 
 - **Avid Reader**
   - Nourishing my mind through the magic of books. Always on the lookout for captivating reads that transport me to different worlds and broaden my perspective.
+
 - **World** Travel Enthusiast 🌍
-  -I have an insatiable love for exploring the diverse landscapes and cultures our planet has to offer. Traveling the world is not just a hobby; it's a way of life!
+  - I have an insatiable love for exploring the diverse landscapes and cultures our planet has to offer. Traveling the world is not just a hobby; it's a way of life!
 
 🌟 **Let's Connect!**
 
